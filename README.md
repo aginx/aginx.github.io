@@ -9,5 +9,5 @@ Code of him creations avaliable on public. You can easily download they from off
 
 [Link](url) and ![Image](src)
 
-_&copy; 2019 Aginx. All rights reserved.
-GitHub - [Link](https://github.com/aginx)_
+_&copy; 2019 Aginx. All rights reserved. <br>
+[GitHub](https://github.com/aginx)_
